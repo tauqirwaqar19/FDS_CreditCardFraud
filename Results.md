@@ -20,4 +20,4 @@ The following figure shows the Receiver Operating Characteristic (ROC) curve of 
 
 ![roc curve](images/roc.png)
 
-Based on the results presented in the table and the AUC value, we can conclude that **K Nearest Neighbor** is the most effective model with an accuracy of **99.9288%** and F1 score of **0.794979** and thus can be used for the effective prediction of credit card frau
+Based on the results presented in the table and the AUC value, we can conclude that **K Nearest Neighbor** is the most effective model with an accuracy of **99.9288%** and F1 score of **0.794979** and thus can be used for the effective prediction of credit card fraud.
