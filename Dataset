@@ -1,0 +1,5 @@
+ Dataset Description 
+
+The dataset used for this project was obtained from kaggle.
+The dataset covers credit card transactions completed by European cardholders dated September 2013.
+In this dataset, we have 492 frauds out of 284,807 transactions that occurred during a span of two days. The dataset is heavily skewed, with the positive class (fraudulent transactions) comprising only 0.172 percent of all transactions.
