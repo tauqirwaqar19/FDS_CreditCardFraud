@@ -7,7 +7,7 @@ The project has been implemented on Google Colaboratory, which is a free online 
 ## II. Packages Used
 
 1. **numpy** : numpy is the core library for scientific computing in Python. It provides a high-performance multidimensional array object, and tools for working with arrays.
-2.** pandas** : pandas is a library in Python for data manipulation and analysis
+2. **pandas** : pandas is a library in Python for data manipulation and analysis
 3. **sklearn** : Scikit-learn (sklearn) is a machine learning library for Python. It features various classification, regression and clustering algorithms.
      
      i.  From ‘sklearn.model_selection’,  we import ‘train_test_split’ to split the dataset into train and test  data.
