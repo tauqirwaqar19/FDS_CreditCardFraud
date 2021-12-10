@@ -19,3 +19,5 @@ The project has been implemented on Google Colaboratory, which is a free online 
      iv. From ‘sklearn.metrics’, we import ‘roc_curve’ and ‘roc_auc_score’ for plotting the ROC curve and calculating area under the curve.
 4. **seaborn** : seaborn is a Python data visualization library. For our project, we used the seaborn’s ‘heatmap’ module to plot the confusion matrix for our models.
 5. **matplotlib** : matplotlib helps us create visualizations in python. We have used matplotlib for creating graphs for exploratory data analysis.
+
+Google Doc for the same is available (here)[https://docs.google.com/document/d/1C-cj19vqAgAHEojSsE4CkHJmAFtaghYYi6utTGVaazM/edit#heading=h.3k78xtriipch]
