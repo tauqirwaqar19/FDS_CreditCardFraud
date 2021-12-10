@@ -18,3 +18,4 @@ To evaluate the prediction models, we use three evaluation methods:
     
 3. ROC Curve/AUC : A ROC curve (Receiver Operating Characteristic curve) is a graph showing the performance of a classification model. This curve plots two parameters: True Positive Rate and False Positive Rate. The area under the ROC curve (AUC) which represents a common area of true positive rate and false positive rate is used for evaluation.
 
+Google Link for the same can be found [here](https://docs.google.com/document/d/1--wvq_0HXfIujgXRYuBs6FtDQAwB6cAHG1_i8jyQvuw/edit#heading=h.f5cbotfyfjb8)
