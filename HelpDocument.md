@@ -20,4 +20,4 @@ The project has been implemented on Google Colaboratory, which is a free online 
 4. **seaborn** : seaborn is a Python data visualization library. For our project, we used the seaborn’s ‘heatmap’ module to plot the confusion matrix for our models.
 5. **matplotlib** : matplotlib helps us create visualizations in python. We have used matplotlib for creating graphs for exploratory data analysis.
 
-Google Doc for the same is available (here)[https://docs.google.com/document/d/1C-cj19vqAgAHEojSsE4CkHJmAFtaghYYi6utTGVaazM/edit#heading=h.3k78xtriipch]
+Google Doc for the same is available [here](https://docs.google.com/document/d/1C-cj19vqAgAHEojSsE4CkHJmAFtaghYYi6utTGVaazM/edit#heading=h.3k78xtriipch)
